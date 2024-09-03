@@ -19,8 +19,8 @@ Purpose
 This project aims to modernize and digitize hospital operations, making healthcare more efficient and accessible. While the initial focus is on individual hospitals, the solution is designed to scale, with the potential to be integrated into a city-wide healthcare management system.
 
 Technology Stack
-Backend:  Node.js,Python
-Frontend: TailwindCSS,Html,React,Framer
-Database: 
-Integration:
-Deployment: Vercel
+Backend:  Node.js,Python ||
+Frontend: TailwindCSS,Html,React,Framer ||
+Database: ||
+Integration:  ||
+Deployment: Vercel  ||
