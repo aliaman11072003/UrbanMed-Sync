@@ -3,7 +3,8 @@ Hospital management system optimizing patient flow, bed availability, and invent
 
 
 "UrbanMed Sync"
-=> Project Overview
+
+Project Overview
 UrbanMed Sync is an innovative hospital-based solution designed to streamline patient management in Outpatient Departments (OPDs), optimize bed availability, and enhance the admission process. Built on advanced queuing models, this system ensures efficient patient flow, reducing wait times and improving overall healthcare delivery.
 
 The solution also incorporates robust inventory management modules to track the dispensation of medicines and consumables, ensuring that hospitals maintain optimal stock levels. This feature helps prevent shortages and overstocking, thereby supporting the efficient operation of medical facilities.
