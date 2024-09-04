@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Medical Consumables</h1>
+<ul>
+{% for item in consumables %}
+    <li>{{ item.name }}: {{ item.quantity }}</li>
+{% endfor %}
+</ul>
+{% endblock %}

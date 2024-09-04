@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Bed Availability</h1>
+<ul>
+{% for hospital in hospitals %}
+    <li>
+        {{ hospital.name }}: 
+        {{ hospital.beds - hospital.occupied_beds }} / {{ hospital.beds }} 
+        (Lat: {{ hospital.latitude }}, Long: {{ hospital.longitude }})
+    </li>
+{% endfor %}
+</ul>
+{% endblock %}
