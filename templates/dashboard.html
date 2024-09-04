@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Dashboard</h1>
+<p>Welcome, {{ user.username }} ({{ user.role }})</p>
+
+{% if user.role == 'staff' %}
+    <!-- Add staff-specific content here -->
+{% elif user.role == 'doctor' %}
+    <!-- Add doctor-specific content here -->
+{% else %}
+    <!-- Add patient-specific content here -->
+{% endif %}
+{% endblock %}
