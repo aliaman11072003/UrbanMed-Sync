@@ -1,8 +1,8 @@
-# SawathyaFlow-Sync
+# SwathyaFlow-Sync
 Hospital management system optimizing patient flow, bed availability, and inventory management.
 
 
-"SawathyaFlow Sync"
+"SwathyaFlow Sync"
 
 Project Overview
 UrbanMed Sync is an innovative hospital-based solution designed to streamline patient management in Outpatient Departments (OPDs), optimize bed availability, and enhance the admission process. Built on advanced queuing models, this system ensures efficient patient flow, reducing wait times and improving overall healthcare delivery.
