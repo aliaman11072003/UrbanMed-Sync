@@ -1,27 +1,28 @@
-# SwathyaFlow-Sync
-Hospital management system optimizing patient flow, bed availability, and inventory management.
+# Nirmay---bandhu
+Queuing Models in OPDs, Bed Availability, and Patient Admissions: A Hospital-Based Solution
+Problem Statement ID: 1620
+Problem Statement Title:
+Queuing models in OPDs/availability of beds/admission of patients. A hospital-based solution is ideal which can be integrated with a city-wide module.
 
+Description
+The project aims to develop a comprehensive technological solution that addresses key challenges faced by hospitals in managing patient flow, bed availability, patient admissions, and inventory of medicines and consumables.
 
-"SwathyaFlow Sync"
+The solution will be based on queuing models in Outpatient Departments (OPDs) and provide real-time insights into bed availability and patient admissions. The project will also explore efficient inventory management systems to ensure the availability of necessary medicines and consumables at all times.
 
-Project Overview
-UrbanMed Sync is an innovative hospital-based solution designed to streamline patient management in Outpatient Departments (OPDs), optimize bed availability, and enhance the admission process. Built on advanced queuing models, this system ensures efficient patient flow, reducing wait times and improving overall healthcare delivery.
+Though some modules have been developed by the NIC, their implementation in Delhi is pending. Our solution will build on this, aiming to integrate with the existing city-wide hospital management system.
 
-The solution also incorporates robust inventory management modules to track the dispensation of medicines and consumables, ensuring that hospitals maintain optimal stock levels. This feature helps prevent shortages and overstocking, thereby supporting the efficient operation of medical facilities.
+Key Focus Areas:
+Queuing Models in OPDs: Optimizing patient wait times and improving service delivery.
+Bed Availability Management: Real-time tracking of bed occupancy and availability.
+Patient Admission System: Streamlined and automated patient admission processes.
+Inventory Management: Efficient tracking of medicines and consumables to avoid stockouts.
+City-Wide Integration: Ensuring seamless integration with city-level health management systems for enhanced coordination.
+Organization
+Client: Government of NCT of Delhi
 
-Key Features
-Advanced Queuing Models: Implement queuing algorithms to manage patient flow in OPDs, reducing wait times and ensuring timely care.
-Bed Availability Tracking: Real-time monitoring of bed occupancy and availability across hospital departments.
-Patient Admission Management: Streamlined admission processes to ensure quick and accurate patient onboarding.
-Inventory Management: Track the usage and availability of medicines and consumables, with alerts for low stock levels.
-City-Wide Integration: Capable of integrating with city-wide healthcare modules to create a unified health management system.
-User-Friendly Interface: Intuitive design for easy navigation and minimal training requirements.
-Purpose
-This project aims to modernize and digitize hospital operations, making healthcare more efficient and accessible. While the initial focus is on individual hospitals, the solution is designed to scale, with the potential to be integrated into a city-wide healthcare management system.
-
-Technology Stack
-Backend:  Node.js,Python ||
-Frontend: TailwindCSS,Html,React,Framer ||
-Database: ||
-Integration:  ||
-Deployment: Vercel  ||
+Features
+Dynamic OPD Queuing System: Implements advanced queuing models to minimize patient wait times and ensure better resource allocation.
+Bed Availability Dashboard: Real-time status of bed availability in different hospital departments, including emergency and ICUs.
+Automated Patient Admission: Digitized and automated patient admission workflow to reduce manual intervention.
+Inventory Management Module: Real-time tracking of stock levels for medicines and consumables to prevent shortages.
+City-Wide Integration Capability: The solution can be expanded to integrate with the city-wide health module to offer a holistic view of hospital resources.
